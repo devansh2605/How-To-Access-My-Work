@@ -10,7 +10,7 @@ Proficient in Python, Java, HTML, CSS, JavaScript, and more, I bring expertise i
 
 To explore my work:
 
-1. **Connect on [LinkedIn](https://www.linkedin.com/in/devansh-chopra-20a202286)**: For specific projects listed on my Linkedin Profile, send me a LinkedIn message. Share which repositories you're interested in, and I'll grant access if suitable.
+1. **Connect on [LinkedIn](https://www.linkedin.com/in/devansh-chopra-20a202286)**: For specific projects listed on my LinkedIn Profile, send me a LinkedIn message. Share which repositories you're interested in, and I'll grant access if suitable.
 
 Feel free to reach out with inquiries, project proposals, or collaboration ideas. Your interest is appreciated, and I look forward to connecting and sharing insights.
 
